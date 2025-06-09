@@ -29,7 +29,7 @@ const Home = () => {
           </h1>
           <p>Full Stack Developer & Team Lead 💻 | React Native Developer 📱 | Problem Solver 🚀</p>
           <div className="home-buttons">
-            <a href="/Saurav_Kumar_Resume.pdf" className="btn glass" target="_blank" rel="noreferrer">
+            <a href="/Saurav_Portfolio/Saurav_Kumar_Resume.pdf" className="btn glass" target="_blank" rel="noreferrer">
               Resume
             </a>
             <a href="https://github.com/saurav1kumar" target="_blank" rel="noreferrer" className="btn solid">

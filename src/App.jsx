@@ -10,7 +10,7 @@ import Contact from "./components/Contact";
 
 const App = () => {
   // Fix basename for both dev and production
-  const basename = window.location.pathname.includes('/portfolio') ? '/portfolio' : '';
+  const basename = window.location.pathname.includes('/Saurav_Portfolio') ? '/Saurav_Portfolio' : '';
   
   return (
     <Router basename={basename}>
